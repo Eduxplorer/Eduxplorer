@@ -28,4 +28,4 @@ Estou sempre disposto a ouvir, aprender e reconhecer novas persepções para os 
 
 ## Agradecimentos
 
-Obrigado por visitar-me! Espero que veja algo do seu prazer ❤️.  Let's All Love Codes. 👁️🌟
+Obrigado por visitar-me! Espero que veja algo do seu prazer. Let's All Love Codes. 👁️🌟
