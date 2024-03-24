@@ -1,6 +1,6 @@
 # 🌠 Prazer! Bem-vindo ao meu repositório GitHub! 🌠
 
-🌌 Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação e desenvolvimento Full-Stack, apaixonado por tecnologias dinâmicas e inspiradoras.
+ Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação e desenvolvimento Full-Stack, apaixonado por tecnologias dinâmicas e inspiradoras.
 
 ## Sobre Mim
 
