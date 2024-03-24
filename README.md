@@ -29,7 +29,3 @@ Estou sempre disposto a ouvir, aprender e reconhecer novas persepções para os 
 ## Agradecimentos
 
 Obrigado por visitar-me! Espero que veja algo do seu prazer. Let's All Love Codes. 👁️🌟
-
-![Snake animation](https://github.com/Eduxplorer/Eduxplorer/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Eduxplorer&repo=Eduxplorer&theme=react)](https://github.com/Eduxplorer/Eduxplorer)
