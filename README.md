@@ -1,18 +1,21 @@
 # 🌠 Prazer! Bem-vindo ao meu repositório GitHub! 🌠
 
- Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação e desenvolvimento Full-Stack, apaixonado por tecnologias dinâmicas e inspiradoras.
+ Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação, apaixonado por tecnologias úteis e engenharia de software, desejo sempre trabalhar e evoluir meu conhecimento na resoulução de problemas e ferramentas profissionais.
 
 ## Sobre Mim
 
-- 📚 Cursando Desenvolvimento Full-Stack na intituição **Senac Largo Treze**
-- 📝 Atualmente aprendendo novas linguagens e práticas de desenvolvimento
+- 📚 Cursando JavaScript Impressionador na **Hashtag Treinamentos**
+- 📝 Refinando meus conhecimentos em Javascript e Lógica de Programação
 - 👨‍💻 Focado em projetos web completos
 
 ## Tecnologias Favoritas
 
-- 💻 JavaScript
-- 🌐 HTML | CSS | React | Node.js
-- 🛠️ Git
+- 💻 JavaScript 
+- 🌐 HTML5 | CSS3 | Sass | React
+- 🛠️ Node.js | Express | MySQL | MongoDB
+- 📦 NPM | ESlint
+- 📂 Git
+
 
 ## Estatísticas do GitHub
 
@@ -28,4 +31,4 @@ Estou sempre disposto a ouvir, aprender e reconhecer novas persepções para os 
 
 ## Agradecimentos
 
-Obrigado por visitar-me! Espero que veja algo do seu prazer. Let's All Love Codes. 👁️🌟
+Obrigado por me visitar, estarei sempre disponivel a novas amizades e oportunidades!
