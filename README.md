@@ -4,7 +4,8 @@
 
 ## Sobre Mim
 
-- 📚 Cursando JavaScript Impressionador na **Hashtag Treinamentos**
+- 📚 Cursando Técnico em Desenvolvimento de Sistemas na Instituição **Senac São Paulo**
+- 📚 Cursando JavaScript Impressionador na na Instituição **Hashtag Treinamentos**
 - 📝 Refinando meus conhecimentos em Javascript e Lógica de Programação
 - 👨‍💻 Focado em projetos web completos
 
