@@ -31,7 +31,7 @@
 
 ## Entre em Contato
 
-- 📧 Email: eduardo.ssilva77@senacsp.edu.br
+- 📧 Email: edu.santossilvadev@gmail.com
 
 ## Deseja Ajudar?
 
