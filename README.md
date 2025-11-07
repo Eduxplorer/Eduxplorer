@@ -1,4 +1,4 @@
-# 🌠 Prazer! Bem-vindo ao meu repositório GitHub! 🌠
+# Prazer! Bem-vindo ao meu repositório GitHub! 
 
  Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação, apaixonado por tecnologias úteis e engenharia de software, desejo sempre trabalhar e evoluir meu conhecimento na resoulução de problemas e ferramentas profissionais.
 
