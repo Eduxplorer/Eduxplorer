@@ -9,7 +9,7 @@ Minha stack é versátil para atender diferentes contextos de desenvolvimento:
 
 ### 🌐 Web & Mobile (Frontend)
 * **Core:** HTML5, CSS3 (Sass), JavaScript (ES6+).
-* **Frameworks:** React.js (Web), React Native (Mobile).
+* **Frameworks:** Next.js (App Router), React.js (Web), React Native (Mobile).
 * **Estilização:** Bootstrap, Tailwind CSS.
 
 ### ⚙️ Backend & Desktop
@@ -24,6 +24,7 @@ Minha stack é versátil para atender diferentes contextos de desenvolvimento:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo"  />
 </div>
@@ -35,14 +36,10 @@ Minha stack é versátil para atender diferentes contextos de desenvolvimento:
 * **Desenvolvimento Web Moderno** | Cursos Complementares
     * *Foco:* Fullstack JavaScript (MERN), Single Page Applications (SPA) e APIs assíncronas.
 
-## 📊 Atividade no GitHub
-
-![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=Eduxplorer&show_icons=true&theme=radical&hide_border=true)
-
 ## 📫 Contato
 
 * **LinkedIn:** https://www.linkedin.com/in/eduardosantosdev/
 * **Email:** eduardods.silva@outlook.com
 
 ---
-*Comprometido com código limpo e aprendizado contínuo.*
+*Este perfil é mantido e atualizado conforme minha evolução técnica.*
