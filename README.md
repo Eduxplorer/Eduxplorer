@@ -12,13 +12,14 @@ Minha stack é versátil para atender diferentes contextos de desenvolvimento:
 * **Frameworks:** Next.js (App Router), React.js (Web), React Native (Mobile).
 * **Estilização:** Bootstrap, Tailwind CSS.
 
-### ⚙️ Backend & Desktop
+### ⚙️ Backend & Ecossistema .NET
 * **Node.js Ecosystem:** Express, APIs RESTful.
-* **Microsoft Ecosystem:** C#, .NET Framework, WPF (Windows Presentation Foundation).
+* **C# / .NET Core:** Desenvolvimento de APIs REST, Lógica Orientada a Objetos.
+* **Aplicações .NET:** ASP.NET MVC (Razor Pages), WPF (Desktop).
 
 ### 🗄️ Banco de Dados
 * **Relacional:** SQL Server, MySQL.
-* **NoSQL:** MongoDB.
+* **NoSQL:** MongoDB, Firebase.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
