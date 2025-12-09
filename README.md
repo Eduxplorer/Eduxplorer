@@ -1,42 +1,48 @@
-# Prazer! Bem-vindo ao meu repositório GitHub! 
+# Eduardo dos Santos Silva
+### Desenvolvedor de Software | Web, Mobile & Desktop
 
- Olá! Eu me chamo Eduardo dos Santos, sou um estudante e entusiasta a programação, apaixonado por tecnologias úteis e engenharia de software, desejo sempre trabalhar e evoluir meu conhecimento na resoulução de problemas e ferramentas profissionais.
+Estudante de Desenvolvimento de Sistemas focado na resolução de problemas através de tecnologia. Possuo uma formação híbrida, combinando a agilidade do ecossistema **JavaScript** com a robustez e estrutura da plataforma **.NET (C#)**.
 
-## Sobre Mim
+## 🛠 Arsenal Tecnológico
 
-- 📚 Cursando Técnico em Desenvolvimento de Sistemas na Instituição **Senac São Paulo**
-- 📚 Cursando JavaScript Impressionador na na Instituição **Hashtag Treinamentos**
-- 📝 Refinando meus conhecimentos em Javascript e Lógica de Programação
-- 👨‍💻 Focado em projetos web completos
+Minha stack é versátil para atender diferentes contextos de desenvolvimento:
 
-## Tecnologias Favoritas
+### 🌐 Web & Mobile (Frontend)
+* **Core:** HTML5, CSS3 (Sass), JavaScript (ES6+).
+* **Frameworks:** React.js (Web), React Native (Mobile).
+* **Estilização:** Bootstrap, Tailwind CSS.
 
-- 💻 JavaScript 
-- 🌐 HTML5 | CSS3 | Sass | React
-- 🛠️ Node.js | Express | MySQL | MongoDB
-- 📦 NPM | ESlint
-- 📂 Git
+### ⚙️ Backend & Desktop
+* **Node.js Ecosystem:** Express, APIs RESTful.
+* **Microsoft Ecosystem:** C#, .NET Framework, WPF (Windows Presentation Foundation).
 
-<div style="display: inline_block"><br>
-    <img align="center" alt=Html height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt=Css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt=Js height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt=React height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt=Node height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
+### 🗄️ Banco de Dados
+* **Relacional:** SQL Server, MySQL.
+* **NoSQL:** MongoDB.
 
-## Estatísticas do GitHub
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo"  />
+</div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduxplorer&show_icons=true&theme=radical)
+## 📚 Educação Técnica
 
-## Entre em Contato
+* **Técnico em Desenvolvimento de Sistemas** | Senac São Paulo
+    * *Foco:* Desenvolvimento Desktop (WPF), Modelagem de Dados (SQL Server) e Lógica Orientada a Objetos com C#.
+* **Desenvolvimento Web Moderno** | Cursos Complementares
+    * *Foco:* Fullstack JavaScript (MERN), Single Page Applications (SPA) e APIs assíncronas.
 
-- 📧 Email: edu.santossilvadev@gmail.com
+## 📊 Atividade no GitHub
 
-## Deseja Ajudar?
+![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=Eduxplorer&show_icons=true&theme=radical&hide_border=true)
 
-Estou sempre disposto a ouvir, aprender e reconhecer novas persepções para os meus projetos. Sinta-se a vontade para enviar uma issue ou um pull request.
+## 📫 Contato
 
-## Agradecimentos
+* **LinkedIn:** https://www.linkedin.com/in/eduardosantosdev/
+* **Email:** eduardods.silva@outlook.com
 
-Obrigado por me visitar, estarei sempre disponivel a novas amizades e oportunidades!
+---
+*Comprometido com código limpo e aprendizado contínuo.*
